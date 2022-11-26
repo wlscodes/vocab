@@ -1,0 +1,142 @@
+[
+    {
+        "English": "start",
+        "Polish": "uruchomić",
+        "PolishDescription": null
+    },
+    {
+        "English": "made",
+        "Polish": "wykonane",
+        "PolishDescription": null
+    },
+    {
+        "English": "might",
+        "Polish": "móc",
+        "PolishDescription": null
+    },
+    {
+        "English": "live",
+        "Polish": "mieszkać",
+        "PolishDescription": null
+    },
+    {
+        "English": "story",
+        "Polish": "opowiadanie",
+        "PolishDescription": null
+    },
+    {
+        "English": "where",
+        "Polish": "gdzie",
+        "PolishDescription": null
+    },
+    {
+        "English": "see",
+        "Polish": "widzieć",
+        "PolishDescription": null
+    },
+    {
+        "English": "after",
+        "Polish": "po",
+        "PolishDescription": null
+    },
+    {
+        "English": "far",
+        "Polish": "daleko",
+        "PolishDescription": ["duża odległość w przestrzeni lub czasie"]
+    },
+    {
+        "English": "back",
+        "Polish": "z powrotem",
+        "PolishDescription": null
+    },
+    {
+        "English": "sea",
+        "Polish": "morze",
+        "PolishDescription": null
+    },
+    {
+        "English": "little",
+        "Polish": "mały",
+        "PolishDescription": ["mała lub nieistotna ilość czegoś", "do opisania młodych osób"]
+    },
+    {
+        "English": "draw",
+        "Polish": "rysować",
+        "PolishDescription": null
+    },
+    {
+        "English": "only",
+        "Polish": "tylko",
+        "PolishDescription": null
+    },
+    {
+        "English": "left",
+        "Polish": "lewo",
+        "PolishDescription": null
+    },
+    {
+        "English": "round",
+        "Polish": "okrągły",
+        "PolishDescription": null
+    },
+    {
+        "English": "late",
+        "Polish": "późno",
+        "PolishDescription": null
+    },
+    {
+        "English": "man",
+        "Polish": "człowiek",
+        "PolishDescription": null
+    },
+    {
+        "English": "run",
+        "Polish": "biegać",
+        "PolishDescription": null
+    },
+    {
+        "English": "year",
+        "Polish": "rok",
+        "PolishDescription": null
+    },
+    {
+        "English": "come",
+        "Polish": "przybyć",
+        "PolishDescription": ["poruszać się w kierunku osoby do której mówi", "przybyć w określone miejsce"]
+    },
+    {
+        "English": "while",
+        "Polish": "podczas",
+        "PolishDescription": null
+    },
+    {
+        "English": "show",
+        "Polish": "pokazywać",
+        "PolishDescription": null
+    },
+    {
+        "English": "press",
+        "Polish": "nacisnąć",
+        "PolishDescription": null
+    },
+    {
+        "English": "every",
+        "Polish": "każdy",
+        "PolishDescription": null
+    },
+    {
+        "English": "close",
+        "Polish": "blisko",
+        "PolishDescription": ["fizyczna odległość"]
+    },
+    {
+        "English": "good",
+        "Polish": "dobry",
+        "PolishDescription": null
+    },
+    {
+        "English": "night",
+        "Polish": "noc",
+        "PolishDescription": null
+    }
+]

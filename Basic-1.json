@@ -1,0 +1,152 @@
+[
+    {
+        "English": "lift",
+        "Polish": "winda",
+        "PolishDescription": null
+    },
+    {
+        "English": "offer",
+        "Polish": "oferować",
+        "PolishDescription": null
+    },
+    {
+        "English": "rose",
+        "Polish": "róża",
+        "PolishDescription": null
+    },
+    {
+        "English": "segment",
+        "Polish": "część",
+        "PolishDescription": ["część, na którą rzecz jest odpowiednio podzielna"]
+    },
+    {
+        "English": "continue",
+        "Polish": "kontynuować",
+        "PolishDescription": null
+    },
+    {
+        "English": "slave",
+        "Polish": "niewolnik",
+        "PolishDescription": null
+    },
+    {
+        "English": "block",
+        "Polish": "blok",
+        "PolishDescription": ["prostopadłościenny kawałek twardego materiału"]
+    },
+    {
+        "English": "duck",
+        "Polish": "kaczka",
+        "PolishDescription": null
+    },
+    {
+        "English": "chart",
+        "Polish": "wykres",
+        "PolishDescription": null
+    },
+    {
+        "English": "instant",
+        "Polish": "nagle",
+        "PolishDescription": ["dziejące się natychmiast, bez żadnej zwłoki"]
+    },
+    {
+        "English": "hat",
+        "Polish": "kapelusz",
+        "PolishDescription": null
+    },
+    {
+        "English": "market",
+        "Polish": "rynek",
+        "PolishDescription": null
+    },
+    {
+        "English": "sell",
+        "Polish": "sprzedawać",
+        "PolishDescription": null
+    },
+    {
+        "English": "degree",
+        "Polish": "stopień",
+        "PolishDescription": ["jdenostka miary, szczególnie temperatury lub kątów"]
+    },
+    {
+        "English": "success",
+        "Polish": "sukces",
+        "PolishDescription": null
+    },
+    {
+        "English": "populate",
+        "Polish": "zaludniać",
+        "PolishDescription": null
+    },
+    {
+        "English": "company",
+        "Polish": "firma",
+        "PolishDescription": null
+    },
+    {
+        "English": "chick",
+        "Polish": "pisklę",
+        "PolishDescription": null
+    },
+    {
+        "English": "subtract",
+        "Polish": "odejmować",
+        "PolishDescription": null
+    },
+    {
+        "English": "dear",
+        "Polish": "drogi",
+        "PolishDescription": ["kochany, mocno lubiany"]
+    },
+    {
+        "English": "event",
+        "Polish": "wydarzenie",
+        "PolishDescription": null
+    },
+    {
+        "English": "enemy",
+        "Polish": "wróg",
+        "PolishDescription": null
+    },
+    {
+        "English": "particular",
+        "Polish": "szczególny",
+        "PolishDescription": null
+    },
+    {
+        "English": "reply",
+        "Polish": "odpowiedź",
+        "PolishDescription": null
+    },
+    {
+        "English": "deal",
+        "Polish": "umowa",
+        "PolishDescription": null
+    },
+    {
+        "English": "drink",
+        "Polish": "pić",
+        "PolishDescription": null
+    },
+    {
+        "English": "swim",
+        "Polish": "pływać",
+        "PolishDescription": null
+    },
+    {
+        "English": "occur",
+        "Polish": "zdarzać się",
+        "PolishDescription": ["w przypadku wypadków i innych nieprzewidzianych zdarzeń"]
+    },
+    {
+        "English": "term",
+        "Polish": "termin",
+        "PolishDescription": null
+    },
+    {
+        "English": "support",
+        "Polish": "wsparcie",
+        "PolishDescription": null
+    }
+]

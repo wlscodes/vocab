@@ -1,0 +1,142 @@
+[
+    {
+        "English": "very",
+        "Polish": "bardzo",
+        "PolishDescription": null
+    },
+    {
+        "English": "to",
+        "Polish": "do",
+        "PolishDescription": null
+    },
+    {
+        "English": "through",
+        "Polish": "przez",
+        "PolishDescription": ["z jednego końca na drugi","od początku do końca"]
+    },
+    {
+        "English": "and",
+        "Polish": "i",
+        "PolishDescription": null
+    },
+    {
+        "English": "just",
+        "Polish": "tylko",
+        "PolishDescription": null
+    },
+    {
+        "English": "form",
+        "Polish": "formularz",
+        "PolishDescription": null
+    },
+    {
+        "English": "in",
+        "Polish": "w",
+        "PolishDescription": null
+    },
+    {
+        "English": "sentence",
+        "Polish": "zdanie",
+        "PolishDescription": null
+    },
+    {
+        "English": "is",
+        "Polish": "jest",
+        "PolishDescription": ["w trzeciej liczbie pojedynczej"]
+    },
+    {
+        "English": "great",
+        "Polish": "świetnie",
+        "PolishDescription": null
+    },
+    {
+        "English": "think",
+        "Polish": "myśleć",
+        "PolishDescription": null
+    },
+    {
+        "English": "you",
+        "Polish": "ty",
+        "PolishDescription": null
+    },
+    {
+        "English": "say",
+        "Polish": "powiedzieć",
+        "PolishDescription": null
+    },
+    {
+        "English": "that",
+        "Polish": "że",
+        "PolishDescription": null
+    },
+    {
+        "English": "help",
+        "Polish": "pomoc",
+        "PolishDescription": null
+    },
+    {
+        "English": "he",
+        "Polish": "on",
+        "PolishDescription": null
+    },
+    {
+        "English": "low",
+        "Polish": "niski",
+        "PolishDescription": null
+    },
+    {
+        "English": "was",
+        "Polish": "być",
+        "PolishDescription": ["w czesie przeszłym liczby pojedynczej"]
+    },
+    {
+        "English": "line",
+        "Polish": "linia",
+        "PolishDescription": null
+    },
+    {
+        "English": "for",
+        "Polish": "dla",
+        "PolishDescription": null
+    },
+    {
+        "English": "differ",
+        "Polish": "różnic się",
+        "PolishDescription": null
+    },
+    {
+        "English": "on",
+        "Polish": "na",
+        "PolishDescription": null
+    },
+    {
+        "English": "turn",
+        "Polish": "skręcić",
+        "PolishDescription": null
+    },
+    {
+        "English": "are",
+        "Polish": "są",
+        "PolishDescription": null
+    },
+    {
+        "English": "cause",
+        "Polish": "przyczyna",
+        "PolishDescription": null
+    },
+    {
+        "English": "with",
+        "Polish": "z",
+        "PolishDescription": null
+    },
+    {
+        "English": "much",
+        "Polish": "dużo",
+        "PolishDescription": ["rzeczownik niepoliczalny"]
+    },
+    {
+        "English": "as",
+        "Polish": "kiedy",
+        "PolishDescription": null
+    }
+]

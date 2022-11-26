@@ -1,0 +1,152 @@
+[
+    {
+        "English": "mean",
+        "Polish": "znaczyć",
+        "PolishDescription": null
+    },
+    {
+        "English": "i",
+        "Polish": "ja",
+        "PolishDescription": ["jako zaimek"]
+    },
+    {
+        "English": "before",
+        "Polish": "przed",
+        "PolishDescription": null
+    },
+    {
+        "English": "his",
+        "Polish": "jego",
+        "PolishDescription": null
+    },
+    {
+        "English": "move",
+        "Polish": "ruszyć",
+        "PolishDescription": null
+    },
+    {
+        "English": "they",
+        "Polish": "oni",
+        "PolishDescription": null
+    },
+    {
+        "English": "right",
+        "Polish": "prawo",
+        "PolishDescription": ["jako kierunek ruchu"]
+    },
+    {
+        "English": "be",
+        "Polish": "być",
+        "PolishDescription": null
+    },
+    {
+        "English": "boy",
+        "Polish": "chłopiec",
+        "PolishDescription": null
+    },
+    {
+        "English": "at",
+        "Polish": "przy",
+        "PolishDescription": null
+    },
+    {
+        "English": "old",
+        "Polish": "stary",
+        "PolishDescription": null
+    },
+    {
+        "English": "one",
+        "Polish": "jeden",
+        "PolishDescription": null
+    },
+    {
+        "English": "too",
+        "Polish": "także",
+        "PolishDescription": null
+    },
+    {
+        "English": "have",
+        "Polish": "mieć",
+        "PolishDescription": null
+    },
+    {
+        "English": "same",
+        "Polish": "ten sam",
+        "PolishDescription": null
+    },
+    {
+        "English": "this",
+        "Polish": "ten",
+        "PolishDescription": null
+    },
+    {
+        "English": "tell",
+        "Polish": "powiedzieć",
+        "PolishDescription": null
+    },
+    {
+        "English": "from",
+        "Polish": "od",
+        "PolishDescription": null
+    },
+    {
+        "English": "does",
+        "Polish": "robić",
+        "PolishDescription": ["w trzeciej osobie liczby pojedynczej"]
+    },
+    {
+        "English": "or",
+        "Polish": "albo",
+        "PolishDescription": null
+    },
+    {
+        "English": "set",
+        "Polish": "zestaw",
+        "PolishDescription": ["zestaw przedmiotów"]
+    },
+    {
+        "English": "had",
+        "Polish": "miał",
+        "PolishDescription": ["posiadać w przeszłości"]
+    },
+    {
+        "English": "three",
+        "Polish": "trzy",
+        "PolishDescription": null
+    },
+    {
+        "English": "by",
+        "Polish": "przez",
+        "PolishDescription": ["coś zrobione przez osobę", "pokazanie jak coś jest zrobione", "pokazanie pomiarów lub ilości"]
+    },
+    {
+        "English": "want",
+        "Polish": "chcieć",
+        "PolishDescription": null
+    },
+    {
+        "English": "hot",
+        "Polish": "gorący",
+        "PolishDescription": null
+    },
+    {
+        "English": "air",
+        "Polish": "powietrze",
+        "PolishDescription": null
+    },
+    {
+        "English": "word",
+        "Polish": "słowo",
+        "PolishDescription": null
+    },
+    {
+        "English": "well",
+        "Polish": "cóż",
+        "PolishDescription": null
+    },
+    {
+        "English": "but",
+        "Polish": "ale",
+        "PolishDescription": null
+    }
+]

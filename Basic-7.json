@@ -1,0 +1,152 @@
+[
+    {
+        "English": "stand",
+        "Polish": "stać",
+        "PolishDescription": null
+    },
+    {
+        "English": "could",
+        "Polish": "móc",
+        "PolishDescription": ["możliwość lub zdolność do zrobienia czegoś"]
+    },
+    {
+        "English": "own",
+        "Polish": "posiadać",
+        "PolishDescription": null
+    },
+    {
+        "English": "go",
+        "Polish": "iść",
+        "PolishDescription": null
+    },
+    {
+        "English": "page",
+        "Polish": "strona",
+        "PolishDescription": null
+    },
+    {
+        "English": "come",
+        "Polish": "przychodzić, przyjeżdżać",
+        "PolishDescription": null
+    },
+    {
+        "English": "should",
+        "Polish": "powinien",
+        "PolishDescription": null
+    },
+    {
+        "English": "did",
+        "Polish": "robił",
+        "PolishDescription": ["robić w czasie przeszłym"]
+    },
+    {
+        "English": "country",
+        "Polish": "państwo",
+        "PolishDescription": null
+    },
+    {
+        "English": "number",
+        "Polish": "liczba",
+        "PolishDescription": null
+    },
+    {
+        "English": "found",
+        "Polish": "znaleziono",
+        "PolishDescription": null
+    },
+    {
+        "English": "sound",
+        "Polish": "dźwięk",
+        "PolishDescription": null
+    },
+    {
+        "English": "answer",
+        "Polish": "odpowiedź",
+        "PolishDescription": null
+    },
+    {
+        "English": "no",
+        "Polish": "nie",
+        "PolishDescription": null
+    },
+    {
+        "English": "school",
+        "Polish": "szkoła",
+        "PolishDescription": null
+    },
+    {
+        "English": "most",
+        "Polish": "najwięcej",
+        "PolishDescription": ["największa liczba lub ilość", "prawie wszystko"]
+    },
+    {
+        "English": "grow",
+        "Polish": "rosnąć",
+        "PolishDescription": ["zwiększyć rozmiar", "stać się bardziej rozwiniętym"]
+    },
+    {
+        "English": "people",
+        "Polish": "ludzie",
+        "PolishDescription": null
+    },
+    {
+        "English": "study",
+        "Polish": "studiować",
+        "PolishDescription": null
+    },
+    {
+        "English": "my",
+        "Polish": "mój",
+        "PolishDescription": ["występuje przed rzeczownikiem/przedmiotem w zdaniu"]
+    },
+    {
+        "English": "still",
+        "Polish": "ciągle",
+        "PolishDescription": null
+    },
+    {
+        "English": "over",
+        "Polish": "nad",
+        "PolishDescription": null
+    },
+    {
+        "English": "learn",
+        "Polish": "uczyć sie",
+        "PolishDescription": null
+    },
+    {
+        "English": "know",
+        "Polish": "wiedzieć",
+        "PolishDescription": null
+    },
+    {
+        "English": "plant",
+        "Polish": "roślina",
+        "PolishDescription": null
+    },
+    {
+        "English": "water",
+        "Polish": "woda",
+        "PolishDescription": null
+    },
+    {
+        "English": "cover",
+        "Polish": "okładka",
+        "PolishDescription": null
+    },
+    {
+        "English": "than",
+        "Polish": "niż",
+        "PolishDescription": null
+    },
+    {
+        "English": "food",
+        "Polish": "jedzenie",
+        "PolishDescription": null
+    },
+    {
+        "English": "call",
+        "Polish": "dzwonić",
+        "PolishDescription": null
+    }
+]
